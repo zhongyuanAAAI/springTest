@@ -1,0 +1,93 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .idea/artifacts/tomcat_war.xml
+#	new file:   .idea/artifacts/tomcat_war_exploded.xml
+#	new file:   .idea/compiler.xml
+#	new file:   .idea/copyright/profiles_settings.xml
+#	new file:   .idea/dataSources.local.xml
+#	new file:   .idea/dataSources.xml
+#	new file:   .idea/dataSources/89b7acab-75a2-4cbc-81e6-911d53b352b2.xml
+#	new file:   .idea/libraries/Maven__aopalliance_aopalliance_1_0.xml
+#	new file:   .idea/libraries/Maven__commons_dbcp_commons_dbcp_1_4.xml
+#	new file:   .idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml
+#	new file:   .idea/libraries/Maven__commons_pool_commons_pool_1_5_4.xml
+#	new file:   .idea/libraries/Maven__junit_junit_3_8_1.xml
+#	new file:   .idea/libraries/Maven__mysql_mysql_connector_java_5_1_39.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_aop_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_asm_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_beans_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_context_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_context_support_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_core_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_expression_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_jdbc_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_tx_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_web_3_1_1_RELEASE.xml
+#	new file:   .idea/libraries/Maven__org_springframework_spring_webmvc_3_1_1_RELEASE.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/workspace.xml
+#	new file:   pom.xml
+#	new file:   src/main/java/hello/helloworld.java
+#	new file:   src/main/java/login/LoginController.java
+#	new file:   src/main/java/login/UserDao.java
+#	new file:   src/main/java/login/UserDaoImp.java
+#	new file:   src/main/java/login/UserInsertController.java
+#	new file:   src/main/java/login/UserVO.java
+#	new file:   src/main/resources/applicationContext.xml
+#	new file:   src/main/webapp/WEB-INF/Login.jsp
+#	new file:   src/main/webapp/WEB-INF/Main.jsp
+#	new file:   src/main/webapp/WEB-INF/web.xml
+#	new file:   src/main/webapp/index.jsp
+#	new file:   src/test/java/ai/SpringTest.java
+#	new file:   src/test/resources/applicationContext.xml
+#	new file:   target/classes/applicationContext.xml
+#	new file:   target/classes/hello/helloworld.class
+#	new file:   target/classes/login/LoginController.class
+#	new file:   target/classes/login/UserDao$1.class
+#	new file:   target/classes/login/UserDao.class
+#	new file:   target/classes/login/UserDaoImp.class
+#	new file:   target/classes/login/UserInsertController.class
+#	new file:   target/classes/login/UserVO.class
+#	new file:   target/helloworld.war
+#	new file:   target/helloworld/META-INF/MANIFEST.MF
+#	new file:   target/helloworld/WEB-INF/Login.jsp
+#	new file:   target/helloworld/WEB-INF/Main.jsp
+#	new file:   target/helloworld/WEB-INF/classes/applicationContext.xml
+#	new file:   target/helloworld/WEB-INF/classes/hello/helloworld.class
+#	new file:   target/helloworld/WEB-INF/classes/login/LoginController.class
+#	new file:   target/helloworld/WEB-INF/classes/login/UserDao$1.class
+#	new file:   target/helloworld/WEB-INF/classes/login/UserDao.class
+#	new file:   target/helloworld/WEB-INF/classes/login/UserDaoImp.class
+#	new file:   target/helloworld/WEB-INF/classes/login/UserInsertController.class
+#	new file:   target/helloworld/WEB-INF/classes/login/UserVO.class
+#	new file:   target/helloworld/WEB-INF/lib/aopalliance-1.0.jar
+#	new file:   target/helloworld/WEB-INF/lib/commons-dbcp-1.4.jar
+#	new file:   target/helloworld/WEB-INF/lib/commons-logging-1.1.1.jar
+#	new file:   target/helloworld/WEB-INF/lib/commons-pool-1.5.4.jar
+#	new file:   target/helloworld/WEB-INF/lib/mysql-connector-java-5.1.39.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-aop-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-asm-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-beans-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-context-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-context-support-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-core-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-expression-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-jdbc-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-tx-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-web-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/lib/spring-webmvc-3.1.1.RELEASE.jar
+#	new file:   target/helloworld/WEB-INF/web.xml
+#	new file:   target/helloworld/index.jsp
+#	new file:   target/maven-archiver/pom.properties
+#	new file:   target/test-classes/ai/SpringTest.class
+#	new file:   target/test-classes/applicationContext.xml
+#	new file:   tomcat.iml
+#
+
